@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Nishan Lodge",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Godawari street No.23, Basghari, Khet oripori, Lalitpur",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Ashok Private Villa",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Syangja Street  No.215, mayatari, Bazaar, Depok, Jawa Barat",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Jhole Puri Serang",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Sirutar Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Bogati aryal ",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Putalibazar Mp, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Assha Garden City",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Devisthan ward No.215, Cinangka, Sawangan, Depok, Jawa Barat",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Budathoki Residence ",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "kalimati no 34, hakim chowk, Ciracas, Serang, Banten",
     "image": "./r3.png"
   }
 ]
