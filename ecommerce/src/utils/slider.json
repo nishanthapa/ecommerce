@@ -1,38 +1,38 @@
 [
   {
-    "name": "Nishan Lodge",
+    "name": "Azure Haven Villa",
     "price": "47,043",
-    "detail": "Godawari street No.23, Basghari, Khet oripori, Lalitpur",
+    "detail": "Malibu, California, on Pacific Breeze Drive, offering stunning oceanfront view.",
     "image": "./r1.png"
   },
   {
     "name": "Ashok Private Villa",
     "price": "66,353",
-    "detail": "Syangja Street  No.215, mayatari, Bazaar, Depok, Jawa Barat",
+    "detail": "Syangja Street  No.215, mayatari, Bazaar, Depok, Jawa Barat.",
     "image": "./r2.png"
   },
   {
-    "name": "Jhole Puri Serang",
+    "name": "Mystic Peaks Aryal",
     "price": "35,853",
-    "detail": "Sirutar Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": " Aspen, Colorado, along Summit Crest Road, surrounded by breathtaking mountain scenery.",
     "image": "./r3.png"
   },
   {
-    "name": "Bogati aryal ",
+    "name": "Golden Dune Lodge",
     "price": "47,043",
-    "detail": "Putalibazar Mp, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Dubai, UAE, on Al Sahra Desert Trail, providing a luxurious desert.",
     "image": "./r1.png"
   },
   {
-    "name": "Assha Garden City",
+    "name": "Emerald Lagoon Paradise",
     "price": "66,353",
-    "detail": "Devisthan ward No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Bora Bora, French Polynesia, on Lagoon Serenity Lane, with overwater bungalows.",
     "image": "./r2.png"
   },
   {
-    "name": "Budathoki Residence ",
+    "name": "Whispering Pines Retreat ",
     "price": "35,853",
-    "detail": "kalimati no 34, hakim chowk, Ciracas, Serang, Banten",
+    "detail": " Lake Tahoe, Nevada, on Evergreen Serenity Path, perfect for a peaceful forest escape.",
     "image": "./r3.png"
   }
 ]
