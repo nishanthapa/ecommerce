@@ -3,6 +3,7 @@ import './Contact.css'
 import { MdCall } from 'react-icons/md'
 import {BsFillChatDotsFill} from 'react-icons/bs'
 import {HiChatBubbleBottomCenter} from 'react-icons/hi2'
+import {motion} from "framer-motion"
 const Contact = () => {
   return (
     <section className='c-wrapper'>
@@ -69,9 +70,16 @@ const Contact = () => {
  </div>
 
       <div className='c-right'>
-        <div className="image-container">
+        <motion.div 
+        initial={{x:"7rem",opacity:0}}
+        animate={{x: 0,opacity:1}}
+        transition={{
+          duration: 5,
+          type:"spring",
+        }}
+        className="image-container">
             <img src="contact.jpg" alt="contactimg" />
-        </div>
+        </motion.div>
       </div>
 
 
