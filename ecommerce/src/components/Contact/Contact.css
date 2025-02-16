@@ -60,3 +60,20 @@
     color: rgb(168, 132, 132);
     scale:0.8;
 }
+
+@media (max-width:1024px) {
+    .c-container{
+        justify-content: center;
+    }
+    .contactModes{
+        width: 100%;
+    }
+    .row{
+        flex-direction: column;
+        width: 100%;
+    }
+    .mode{
+        width: 100%;
+    }
+    
+}
