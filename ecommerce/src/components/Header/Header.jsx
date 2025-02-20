@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import  {useState} from 'react'
 import './Header.css'
 import {BiMenuAltRight} from 'react-icons/bi'
@@ -34,6 +35,7 @@ const Header = () => {
  </div>
  </OutsideClickHandler>
    <div className="menu-icon" onClick={()=>setMenuOpened((prev)=> !prev)}>
+      
       <BiMenuAltRight sixe ={30} />
     </div>
     </div>
